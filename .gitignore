@@ -1,0 +1,7 @@
+/webapp/node_modules
+/webapp/dist
+/venv
+__pycache__
+devlog.md
+.sideview
+.DS_Store
