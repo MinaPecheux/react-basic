@@ -7,6 +7,7 @@ class SimpleAppBar extends React.Component {
       <div>
         <div>
           <img width={40} src='/assets/logo.png'/>
+          The Sci-Fi Browser
         </div>
         <div>
           <div>Home</div>
